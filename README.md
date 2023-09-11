@@ -1,0 +1,1 @@
+A simple calculator with basic arithmetic operations, made as a part of CODSOFT internship.
